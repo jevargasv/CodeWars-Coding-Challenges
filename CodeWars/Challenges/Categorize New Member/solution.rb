@@ -1,3 +1,4 @@
+# Categorize New Member
 def openOrSenior(data)
     result = []
     data.each {|element| element[0] >= 55 && element[1] > 7 ? result.push("Senior") : result.push("Open")} 
