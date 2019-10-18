@@ -1,3 +1,4 @@
+// Playing with digits
 function digPow(n, p) {
 
     let digits = n.toString().split('');
