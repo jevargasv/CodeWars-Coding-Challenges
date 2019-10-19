@@ -1,3 +1,4 @@
+// Replace with alphabet position
 function alphabetPosition(text) {
 
     let result = "";
