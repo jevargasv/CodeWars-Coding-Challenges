@@ -1,3 +1,4 @@
+// Find the Unique Number
 function findUniq(array) {
   
     let result = [];
