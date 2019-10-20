@@ -1,3 +1,4 @@
+// Who Likes It?
 function likes(names) {
   
     let string = names.length;
