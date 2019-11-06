@@ -1,4 +1,5 @@
 # Growth of a population
+
 def nb_year(p0, percent, aug, p)
 
     age = 0
