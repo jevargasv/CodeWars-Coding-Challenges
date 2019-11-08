@@ -1,4 +1,5 @@
 # Is a Number Prime?
+
 def isPrime(num)
     if num <= 2
       return false
