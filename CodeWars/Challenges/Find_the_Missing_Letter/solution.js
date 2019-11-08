@@ -1,4 +1,5 @@
 // Find the missing letter
+
 function findMissingLetter(array) {
 
     let string = "abcdefghijklmnopqrstuvwxyz";
