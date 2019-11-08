@@ -1,4 +1,5 @@
 // Convert string to camel case
+
 function toCamelCase(str){
   
     let regex = /[A-Za-z]+/g;
