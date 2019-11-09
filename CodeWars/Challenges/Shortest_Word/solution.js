@@ -1,4 +1,5 @@
 // Shortest word
+
 function findShort(s){
 
     let array = s.split(' ');
