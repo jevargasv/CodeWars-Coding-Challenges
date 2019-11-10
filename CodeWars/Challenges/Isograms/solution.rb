@@ -1,4 +1,5 @@
 # Isograms
+
 def is_isogram(string)
     string.downcase!
     ('a'..'z').each do |letter|
