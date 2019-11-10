@@ -1,4 +1,5 @@
 // Isograms
+
 function isIsogram(string) {
     let lowerCase = string.toLowerCase();
     
