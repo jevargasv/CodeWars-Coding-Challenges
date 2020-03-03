@@ -11,6 +11,7 @@ function digPow(n, p) {
     }
     
     let data = result / n;
+    
     if(result % n === 0) {
       return data;
     } else {
