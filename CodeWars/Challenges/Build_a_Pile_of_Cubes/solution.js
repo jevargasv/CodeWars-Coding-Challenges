@@ -1,4 +1,5 @@
 // Build a pile of cubes
+
 function findNb(m) {
     
     for (let n = 0; ; n++) {
