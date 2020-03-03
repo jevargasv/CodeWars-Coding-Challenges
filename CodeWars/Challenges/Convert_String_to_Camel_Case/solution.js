@@ -7,6 +7,7 @@ function toCamelCase(str) {
     let array = [];
     while (match = regex.exec(str)) {
       array.push(match[0]);
+    
     }
     
     array.forEach(function (element, index) {
