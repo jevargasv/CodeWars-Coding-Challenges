@@ -15,6 +15,7 @@ function likes(names) {
     } else if (string > 3) {
       return names[0] + ", " + names[1] + " and " + (string - 2) + " others like this";
     }
+  
 }
   
 likes([]);
