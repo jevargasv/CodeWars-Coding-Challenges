@@ -13,6 +13,7 @@ function findShort(s){
       }
     }
     return shortest;
+    
 }
   
 findShort(("bitcoin take over the world maybe who knows perhaps"), 3);
