@@ -1,4 +1,4 @@
-// Replace with alphabet position
+// Replace with Alphabet Position
 
 function alphabetPosition(text) {
 
