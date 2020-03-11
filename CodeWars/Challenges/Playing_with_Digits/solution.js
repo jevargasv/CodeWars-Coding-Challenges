@@ -17,6 +17,7 @@ function digPow(n, p) {
     } else {
       return -1;
     }
+    
 }
   
 digPow((89, 1), 1);
