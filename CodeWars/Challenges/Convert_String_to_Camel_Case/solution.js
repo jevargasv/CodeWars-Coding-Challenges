@@ -16,6 +16,7 @@ function toCamelCase(str) {
         }
     });
     return array.join('');
+  
 }
   
 toCamelCase("the-stealth-warrior");
