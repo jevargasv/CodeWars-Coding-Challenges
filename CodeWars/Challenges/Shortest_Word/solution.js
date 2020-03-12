@@ -1,4 +1,4 @@
-// Shortest word
+// Shortest Word
 
 function findShort(s){
 
