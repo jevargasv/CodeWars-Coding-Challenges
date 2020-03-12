@@ -1,4 +1,4 @@
-// Convert string to camel case
+// Convert String to Camel Case
 
 function toCamelCase(str) {
   
