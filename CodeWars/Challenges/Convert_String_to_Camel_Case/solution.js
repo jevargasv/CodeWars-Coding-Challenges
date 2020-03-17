@@ -15,6 +15,7 @@ function toCamelCase(str) {
           array[index] = element[0].toUpperCase() + element.substr(1);
         }
     });
+  
     return array.join('');
   
 }
