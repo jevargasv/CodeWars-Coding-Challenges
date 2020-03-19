@@ -1,4 +1,4 @@
-// Is a Number Prime?
+// Is a Number Prime Practice?
 
 function isPrime(num) {
     if (num <= 2) {
