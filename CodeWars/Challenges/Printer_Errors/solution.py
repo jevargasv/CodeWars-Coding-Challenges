@@ -1,4 +1,4 @@
-# Printer errors
+# Printer Errors (Practtice)
 
 def printer_error(s):
     goodLetters = "abcdefghijklm"
