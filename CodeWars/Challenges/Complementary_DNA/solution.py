@@ -1,4 +1,4 @@
-# Complementary DNA
+# Complementary DNA (Practice)
 
 def DNA_strand(dna):
     complements = {
