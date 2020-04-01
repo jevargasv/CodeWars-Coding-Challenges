@@ -1,4 +1,4 @@
-// Find the missing letter
+// Find the Missing Letter (Practice)
 
 function findMissingLetter(array) {
 
